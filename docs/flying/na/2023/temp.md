@@ -13,7 +13,7 @@ This \ is \ just \  a \ template.
 $$
 
 ```
-This is just a template.
+This is just a template. 
 ```
 
-`template`
+`Template`
