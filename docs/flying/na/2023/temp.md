@@ -16,4 +16,4 @@ $$
 This is just a template. 
 ```
 
-`TTttttemplate`
+`TTemplate`
